@@ -75,13 +75,6 @@ class LinkPopover extends Popover
         <label>#{ @_t 'linkUrl' }</label>
         <input class="link-url" type="text"/>
       </div>
-      <div class="settings-field">
-        <label>#{ @_t 'linkTarget'}</label>
-        <select class="link-target">
-          <option value="_blank">#{ @_t 'openLinkInNewWindow' } (_blank)</option>
-          <option value="_self">#{ @_t 'openLinkInCurrentWindow' } (_self)</option>
-        </select>
-      </div>
     </div>
     """
     @el.addClass('link-popover')

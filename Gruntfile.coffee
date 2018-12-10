@@ -41,6 +41,11 @@ module.exports = (grunt) ->
             'src/buttons/table.coffee'
             'src/buttons/strikethrough.coffee'
             'src/buttons/alignment.coffee'
+            'src/buttons/zdd-rank.coffee'
+            'src/buttons/zdd-nickname.coffee'
+            'src/buttons/zdd-friend.coffee'
+            'src/buttons/zdd-renqi.coffee'
+            'src/buttons/zdd-award.coffee'
           ]
       site:
         expand: true
