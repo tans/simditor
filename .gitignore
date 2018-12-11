@@ -21,7 +21,6 @@ upload
 .grunt
 vendor
 _site
-package
 .ackrc
 Gemfile.lock
 tmp/
