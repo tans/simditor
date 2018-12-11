@@ -1,6 +1,8 @@
 
 class ZddAwardButton extends Button
-
+  @i18n =
+    'zh-CN':
+      'zdd-award': '奖品名称'
   name: 'zdd-award'
 
   icon: 'icon iconfont zdd-simeditor-liwu'

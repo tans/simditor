@@ -2,7 +2,7 @@
 $ ->
   Simditor.locale = 'en-US'
 
-  toolbar= ['link',  '|',  'zdd-rank', 'zdd-nickname', 'zdd-friend', 'zdd-renqi', 'zdd-award']
+  toolbar= ['link', 'zdd-emoji', '|',  'zdd-rank', 'zdd-nickname', 'zdd-friend', 'zdd-renqi', 'zdd-award']
 
   editor = new Simditor
     textarea: $('#txt-content')

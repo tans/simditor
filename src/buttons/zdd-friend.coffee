@@ -1,6 +1,8 @@
 
 class ZddFriendButton extends Button
-
+  @i18n =
+    'zh-CN':
+      'zdd-award': '好友昵称'
   name: 'zdd-friend'
 
   icon: 'icon iconfont zdd-simeditor-friend'

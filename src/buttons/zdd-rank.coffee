@@ -1,6 +1,8 @@
 
 class ZddRankButton extends Button
-
+  @i18n =
+    'zh-CN':
+      'zdd-award': '排行榜'
   name: 'zdd-rank'
 
   icon: 'icon iconfont zdd-simeditor-rank'

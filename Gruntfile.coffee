@@ -46,6 +46,7 @@ module.exports = (grunt) ->
             'src/buttons/zdd-friend.coffee'
             'src/buttons/zdd-renqi.coffee'
             'src/buttons/zdd-award.coffee'
+            'src/buttons/zdd-emoji.coffee'
           ]
       site:
         expand: true
