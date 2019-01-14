@@ -2,7 +2,7 @@
 class ZddNicknameButton extends Button
   @i18n =
     'zh-CN':
-      'zdd-award': '用户昵称'
+      'zdd-nickname': '用户昵称'
   name: 'zdd-nickname'
 
   icon: 'icon iconfont zdd-simeditor-user'

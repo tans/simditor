@@ -2,7 +2,7 @@
 class ZddRenqiButton extends Button
   @i18n =
     'zh-CN':
-      'zdd-award': '人气值'
+      'zdd-renqi': '人气值'
   name: 'zdd-renqi'
 
   icon: 'icon iconfont zdd-simeditor-like'
